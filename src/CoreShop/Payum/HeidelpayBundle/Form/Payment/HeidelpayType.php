@@ -29,7 +29,7 @@ final class HeidelpayType extends AbstractType
         $builder
             ->add('gatewayType', ChoiceType::class, [
                 'choices' => [
-                    'PayPal', 'Sofort', 'CreditCard', 'DebitCard'
+                    'PayPal', 'Sofort', 'CreditCard', 'DebitCard', 'Invoice'
                 ]
             ])
             ->add('sandboxMode', CheckboxType::class, [
