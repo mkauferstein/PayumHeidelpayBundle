@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "mkauferstein/payum-heidelpay": "dev-master",
+        "mkauferstein/payum-heidelpay": "1.0.2",
         "coreshop/payum-bundle": "^2.0",
         "moneyphp/money": "^3.2"
     },
