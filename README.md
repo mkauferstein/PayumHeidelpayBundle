@@ -4,10 +4,11 @@ It requires the [coreshop/payum-heidelpay](https://github.com/coreshop/payum-hei
 
 ## Notice
 The Heidelpay Payum Implementation currently only supports following gateways:
- - PayPal
- - Klarna Sofort
  - Credit Card
  - Debit Card
+ - Invoice
+ - Klarna Sofort
+ - PayPal
 
 ## Installation
 
