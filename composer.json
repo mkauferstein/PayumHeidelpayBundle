@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "coreshop/payum-heidelpay": "^1.0",
+        "mkauferstein/payum-heidelpay": "dev-master",
         "coreshop/payum-bundle": "^2.0",
         "moneyphp/money": "^3.2"
     },
@@ -44,5 +44,11 @@
                 "CoreShop\\Payum\\HeidelpayBundle\\HeidelpayBundle"
             ]
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mkauferstein/payum-heidelpay"
+        }
+    ]
 }
