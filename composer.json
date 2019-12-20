@@ -1,5 +1,5 @@
 {
-    "name": "coreshop/payum-heidelpay-bundle",
+    "name": "mkauferstein/payum-heidelpay-bundle",
     "type": "pimcore-bundle",
     "description": "CoreShop - Heidelpay Bundle",
     "keywords": [
